@@ -1,3 +1,10 @@
+### Info
+This repository contains the source code for the article 
+
+**Statistical mechanics of biomolecular condensates via cavity methods**
+
+currently published as preprint at https://arxiv.org/abs/2201.11581
+
 
 ### Installation
 
